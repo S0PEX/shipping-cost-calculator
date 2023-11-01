@@ -1,0 +1,9 @@
+
+# Intellij
+.idea
+
+# Gradle cache
+.gradle
+
+# Build results
+build
