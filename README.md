@@ -39,6 +39,7 @@ Software: Shipping Cost Calculator
 Version: 1.0
 ```
 This citation metadata is also available on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.ZENODO-DOI.svg)](https://doi.org/10.5281/zenodo.ZENODO-DOI).
+
 ## License
 This software is distributed under the [MIT License](https://opensource.org/licenses/MIT).
 See the `LICENSE.txt` file for more details.
