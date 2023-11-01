@@ -5,6 +5,12 @@ plugins {
 group = "ak.softwarequality"
 version = "1.0-SNAPSHOT"
 
+tasks.withType<Jar> {
+    manifest {
+        attributes["Main-Class"] = "ak.softwarequality.Main"
+    }
+}
+
 repositories {
     mavenCentral()
 }
